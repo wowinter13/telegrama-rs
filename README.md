@@ -2,7 +2,7 @@
 
 **Telegrama-rs** is a minimalist, reliable Rust wrapper for sending admin/notification messages via Telegram bots.
 
-Shoutout to [rameerez](https://x.com/rameerez) for the original idea and Ruby implementation. Usually I am not proud of copying things "as is" to another language, but this time it was really helpful.
+Shoutout to [rameerez](https://x.com/rameerez) for the original idea and Ruby implementation. Normally, I’m not proud of copying things "as is" into another language, but this time it was genuinely helpful.
 
 ## Features
 
